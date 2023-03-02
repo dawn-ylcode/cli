@@ -1,11 +1,15 @@
 {
   "name": "dawn-vue-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "bin": "bin.js",
   "main": "index.js",
   "author": "dawn",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dawn-ylcode/cli.git"
+  },
   "dependencies": {
     "axios": "^1.3.4",
     "chalk": "^4.1.2",
